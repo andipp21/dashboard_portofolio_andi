@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448846326252",
+    "project_id": "web-portofolio-andipputra",
+    "storage_bucket": "web-portofolio-andipputra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448846326252:android:738ef12c3b86bbf05878c9",
+        "android_client_info": {
+          "package_name": "com.andipputra.dashboard_portofolio_andi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448846326252-j4b1j3tjnfuf9kgvpcui842gjejdkeh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andipputra.dashboard_portofolio_andi",
+            "certificate_hash": "6371fa4e972f986eece5c2c441a4804403114924"
+          }
+        },
+        {
+          "client_id": "448846326252-ors5t06t612kjgmq9ahei14ubq3r9rb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoDoXH4eb7qL4jFHmHwJ4hyt9ZrUQQJ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448846326252-ors5t06t612kjgmq9ahei14ubq3r9rb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
